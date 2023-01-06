@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    height: 100%;
+    width: 100%;
+}
+nav{
+    float: right;
+    /* display: flex; */
+    margin-top: -70px;
+    margin-right: 20px; 
+} 
+a{
+    text-decoration: none;
+    color: #000;
+}
+    
+a:hover{
+    color: red;
+}
+.container{
+    height: 100vh;
+    /* width: 100vw; */
+    /* margin-left: 150px; */
+    /* margin-top: 80px; */
+    margin: 100px;
+}
+hr{
+    margin-top: 6px;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    margin-top: 10px;
+    /* width: 20vw; */
+
+}
+.design{
+    display: flex;
+    width: 63vw;
+    margin-top: 20px;
+}
+#para{
+    margin-top: 60px;
+    margin-left: -130px;
+}
+.vibrant{
+    width: 63vw;
+    display: flex;
+    margin-top: 20px;
+}
+#part{
+    margin-top: 60px;
+    margin-left: -100px;
+}
+#word{
+    margin-left: 10px;
+}
+
+.english{
+    width: 63vw;
+    display: flex;
+    margin-top: 20px;
+}
+#page{
+    margin-top: 60px;
+    margin-left: -200px;
+}
+.compts{
+    width: 63vw;
+    display: flex;
+    margin-top: 20px;
+}
+#pag{
+    margin-top: 60px;
+    margin-left: -50px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+ }
+i:hover{
+    color: blue;
+}
+i{
+  font-size: x-large;
+}
+#wk{
+    color: orangered;
+}
